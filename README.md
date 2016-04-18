@@ -1,1 +1,1 @@
-# mastering-probabilistic-graphical-models-using-python
+# Mastering Probabilistic Graphical Models using Python
